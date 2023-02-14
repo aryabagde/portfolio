@@ -43,6 +43,7 @@ const StyledHeroSection = styled.section`
   .bg-text-container {
     font-family: montserrat;
     overflow-x: hidden;
+    overflow-y: hidden;
     display: inline-block;
     top: 100px;
     width: 100%;
