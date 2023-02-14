@@ -4,7 +4,7 @@ module.exports = {
   siteMetadata: {
     title: 'Arya Bagde',
     description:
-      'This website is replica of Brittany Chiang version4 portfolio.',
+      'Hey, myself Arya Bagde I am a developer and this is my portfolio website.',
     siteUrl: 'https://aryabagde.netlify.app', // No trailing slash allowed!
     image: '/og.png', // Path to your image you placed in the 'static' folder
     twitterUsername: '@bagde_arya',
